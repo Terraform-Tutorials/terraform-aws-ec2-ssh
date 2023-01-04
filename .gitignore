@@ -1,0 +1,18 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# out files from $ terraform plan command
+*.out*
+*.hcl*
+*.terraform*
+*.terraform.lock.hcl*
+
+# SSH configurations files
+*id_rsa*
+
+# Crash log files
+crash.log
